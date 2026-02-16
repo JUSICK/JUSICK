@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=8954F7&text=Hello%20There!&reversal=false&fontAlign=50&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8954F7&text=👋%20Hello%20There!&reversal=false&fontAlign=50&fontColor=FFFFFF&section=header" />
 </p>
 
-<div align="center">
+<h4 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Lato+Code&pause=1000&color=8954F7&center=true&vCenter=true&width=435&lines=C%23+Developer;SCP%3ASL+Plugin+Developer;MongoDB%2FMySQL" alt="Typing SVG" />
-</div>
+</h4>
 
 <div align="center">
   <h3>🛠️ Languages & Tools</h3>
