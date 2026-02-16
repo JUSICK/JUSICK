@@ -16,17 +16,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jusick&theme=tokyonight" width="400" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jusick&layout=normal&theme=tokyonight&hide_border=true&langs_count=6" width="277" />
 </p>
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jusick&label=Profile%20Views&color=8954F7&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/github/stars/jusick/jusick?style=for-the-badge&color=ffcc00" alt="stars" />
 </p>
-<p align="center">
-<img width="40%" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN1Ynk0Z2NqOWxocHcxdHpuemh2NTNpOHpya3NiZ3dwOHBwbXU2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3MbRO1ee2PX0dMbdlV/giphy.gif">
-</p>
-
+<!--<p align="center">
+<img width="80%" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN1Ynk0Z2NqOWxocHcxdHpuemh2NTNpOHpya3NiZ3dwOHBwbXU2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3MbRO1ee2PX0dMbdlV/giphy.gif">
+</p> -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8954F7&reversal=false&fontAlign=50&fontColor=FFFFFF&section=footer" />
 </div>
