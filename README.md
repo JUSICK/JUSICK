@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>🛠️ Languages & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=cs,php,mysql,mongodb,linux,docker,bash,unreal,python,css,html,js" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,css,html,docker,linux,bash,mongodb,mysql" />
 </div>
 <p> </p>
 
