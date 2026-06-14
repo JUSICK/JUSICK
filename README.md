@@ -26,5 +26,5 @@
 <img width="80%" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN1Ynk0Z2NqOWxocHcxdHpuemh2NTNpOHpya3NiZ3dwOHBwbXU2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3MbRO1ee2PX0dMbdlV/giphy.gif">
 </p> -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8954F7&reversal=false&fontAlign=50&fontColor=FFFFFF&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8954F7&reversal=false&fontAlign=20&fontColor=FFFFFF&section=footer" />
 </div>
