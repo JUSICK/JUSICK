@@ -13,8 +13,10 @@
 <p> </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jusick&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jusick&layout=normal&theme=tokyonight&hide_border=true&langs_count=6" width="277" />
+  <img alt="JUICE's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jusick&bg_color=RRGGBBAA&title_color=7F38D1&color=7F38D1&line=7F38D1&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jusick&layout=compact&theme=tokyonight" width="550" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jusick&layout=compact&theme=tokyonight&hide_border=true" width="285"/>
+
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jusick&label=Profile%20Views&color=8954F7&style=for-the-badge" alt="views" />
