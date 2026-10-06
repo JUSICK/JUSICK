@@ -16,9 +16,6 @@
   
 
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/jusick/jusick?style=for-the-badge&color=ffcc00" alt="stars" />
-</p>
 <!--<p align="center">
 <img width="80%" height="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN1Ynk0Z2NqOWxocHcxdHpuemh2NTNpOHpya3NiZ3dwOHBwbXU2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3MbRO1ee2PX0dMbdlV/giphy.gif">
 </p> -->
